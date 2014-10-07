@@ -1,0 +1,12 @@
+{
+    "name": "ministryofjustice/opg-core-ddc-essentials",
+    "description": "OPG DDC essentials",
+    "keywords": [
+        "ministryofjustice",
+        "opg"
+    ],
+    "homepage": "https://github.com/ministryofjustice/opg-core-ddc-essentials",
+    "license": [
+        "ministryofjustice"
+    ]
+}
