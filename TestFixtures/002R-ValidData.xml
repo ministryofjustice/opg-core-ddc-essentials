@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LPA002R xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LPA002R.xsd">
+	<Page1>
+		<BURN/>
+		<PhysicalPage>1</PhysicalPage>
+		<DonorsName>Not Needed</DonorsName>
+		<CaseNumber>123456789</CaseNumber>
+		<LPAType>Not Needed</LPAType>
+		<NameOfApplicant>Pl AppllcantName</NameOfApplicant>
+		<CorrespondenceDetails>Pl CorresDetail</CorrespondenceDetails>
+		<NotificationOfPeopleTold>
+			<DonorNotSpecify>true</DonorNotSpecify>
+			<NoNoticeGiven>false</NoNoticeGiven>
+		</NotificationOfPeopleTold>
+		<PeopleSpecified>
+			<FirstName>Not Needed</FirstName>
+			<LastName>Not Needed</LastName>
+			<Date>Not Needed</Date>
+			<FirstName>Not Needed</FirstName>
+			<LastName>Not Needed</LastName>
+			<Date>Not Needed</Date>
+			<FirstName>Not Needed</FirstName>
+			<LastName>Not Needed</LastName>
+			<Date>Not Needed</Date>
+			<FirstName>Not Needed</FirstName>
+			<LastName>Not Needed</LastName>
+			<Date>Not Needed</Date>
+			<FirstName>Not Needed</FirstName>
+			<LastName>Not Needed</LastName>
+			<Date>Not Needed</Date>
+		</PeopleSpecified>
+	</Page1>
+	<Page2>
+		<Fees>
+			<ChequeEnclosed>true</ChequeEnclosed>
+			<PaidByDebitCredit>false</PaidByDebitCredit>
+			<Telephone>P2 TeleNum</Telephone>
+			<AlreadyAppliedRemission>true</AlreadyAppliedRemission>
+			<LikeToApllyRemission>false</LikeToApllyRemission>
+		</Fees>
+		<ApplicantDeclaration>
+			<IorWe>
+				<I>true</I>
+				<We>false</We>
+			</IorWe>
+			<Signature>true</Signature>
+			<Date>P2 SIGDT</Date>
+		</ApplicantDeclaration>
+		<BURN/>
+		<PhysicalPage>2</PhysicalPage>
+	</Page2>
+	<Page3>
+		<BURN/>
+		<PhysicalPage>3</PhysicalPage>
+	</Page3>
+	<Page4>
+		<BURN/>
+		<PhysicalPage>4</PhysicalPage>
+	</Page4>
+</LPA002R>
