@@ -3,38 +3,38 @@
 	<Page1>
 		<BURN/>
 		<PhysicalPage>1</PhysicalPage>
-		<DonorsName>Not Needed</DonorsName>
+		<DonorsName>Not Used</DonorsName>
 		<CaseNumber>123456789</CaseNumber>
-		<LPAType>Not Needed</LPAType>
-		<NameOfApplicant>Pl AppllcantName</NameOfApplicant>
-		<CorrespondenceDetails>Pl CorresDetail</CorrespondenceDetails>
+		<LPAType>Not Used</LPAType>
+		<NameOfApplicant>Not Used</NameOfApplicant>
+		<CorrespondenceDetails>Not Used</CorrespondenceDetails>
 		<NotificationOfPeopleTold>
 			<DonorNotSpecify>true</DonorNotSpecify>
 			<NoNoticeGiven>false</NoNoticeGiven>
 		</NotificationOfPeopleTold>
 		<PeopleSpecified>
-			<FirstName>Not Needed</FirstName>
-			<LastName>Not Needed</LastName>
-			<Date>Not Needed</Date>
-			<FirstName>Not Needed</FirstName>
-			<LastName>Not Needed</LastName>
-			<Date>Not Needed</Date>
-			<FirstName>Not Needed</FirstName>
-			<LastName>Not Needed</LastName>
-			<Date>Not Needed</Date>
-			<FirstName>Not Needed</FirstName>
-			<LastName>Not Needed</LastName>
-			<Date>Not Needed</Date>
-			<FirstName>Not Needed</FirstName>
-			<LastName>Not Needed</LastName>
-			<Date>Not Needed</Date>
+			<FirstName>Not Used</FirstName>
+			<LastName>Not Used</LastName>
+			<Date>Not Used</Date>
+			<FirstName>Not Used</FirstName>
+			<LastName>Not Used</LastName>
+			<Date>Not Used</Date>
+			<FirstName>Not Used</FirstName>
+			<LastName>Not Used</LastName>
+			<Date>Not Used</Date>
+			<FirstName>Not Used</FirstName>
+			<LastName>Not Used</LastName>
+			<Date>Not Used</Date>
+			<FirstName>Not Used</FirstName>
+			<LastName>Not Used</LastName>
+			<Date>Not Used</Date>
 		</PeopleSpecified>
 	</Page1>
 	<Page2>
 		<Fees>
 			<ChequeEnclosed>true</ChequeEnclosed>
 			<PaidByDebitCredit>false</PaidByDebitCredit>
-			<Telephone>P2 TeleNum</Telephone>
+			<Telephone>01234 567 890</Telephone>
 			<AlreadyAppliedRemission>true</AlreadyAppliedRemission>
 			<LikeToApllyRemission>false</LikeToApllyRemission>
 		</Fees>
@@ -44,7 +44,7 @@
 				<We>false</We>
 			</IorWe>
 			<Signature>true</Signature>
-			<Date>P2 SIGDT</Date>
+			<Date>Not Used</Date>
 		</ApplicantDeclaration>
 		<BURN/>
 		<PhysicalPage>2</PhysicalPage>
