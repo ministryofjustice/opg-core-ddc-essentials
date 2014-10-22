@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LPA114 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LPA114.xsd">
+	<Page1>
+		<PartA>
+			<Attorneys/>
+			<ReplacementAttorneys/>
+			<PeopleTold/>
+		</PartA>
+		<PartB>
+			<CertificateProviders>
+				<One>false</One>
+				<Two>false</Two>
+			</CertificateProviders>
+			<SheetA1>0</SheetA1>
+			<SheetA2>0</SheetA2>
+			<SheetA3>0</SheetA3>
+			<SheetB>0</SheetB>
+			<Total>0</Total>
+		</PartB>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page1>
+	<Page2>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page2>
+	<Page3>
+		<PartA1>
+			<Salutation>
+				<Mr>true</Mr>
+				<Mrs>false</Mrs>
+				<Ms>true</Ms>
+				<Miss>false</Miss>
+				<OtherName>P3 OtherTitle 1</OtherName>
+			</Salutation>
+			<FirstName>PS FirstName l</FirstName>
+			<LastName>P3 LastName 1</LastName>
+			<DOB>P3 DOB 1</DOB>
+			<Address>
+				<Address1>P3 Address 1 1</Address1>
+				<Address2>P3 Address 2 1</Address2>
+				<Address3>P3 Address 3 1</Address3>
+				<Address4/>
+				<Postcode>P3   PC   1</Postcode>
+			</Address>
+			<OtherKnownNames>PS NamesKnowninMedOrWel</OtherKnownNames>
+		</PartA1>
+		<PartA2>
+			<Attorney1>
+				<Salutation>
+					<Mr>true</Mr>
+					<Mrs>false</Mrs>
+					<Ms>true</Ms>
+					<Miss>false</Miss>
+					<OtherName>P3 OtherTitle 2</OtherName>
+				</Salutation>
+				<FirstName>PB FirslName Z</FirstName>
+				<LastName>P3 LastName 2</LastName>
+				<DOB>P3 DOB 2</DOB>
+				<Address>
+					<Address1>P3 Address 1 2</Address1>
+					<Address2>P3 Address 2 2</Address2>
+					<Address3>P3 Address 32</Address3>
+					<Address4/>
+					<Postcode>P3   PC   2</Postcode>
+				</Address>
+			</Attorney1>
+			<Attorney2>
+				<Salutation>
+					<Mr>true</Mr>
+					<Mrs>false</Mrs>
+					<Ms>true</Ms>
+					<Miss>false</Miss>
+					<OtherName/>
+				</Salutation>
+				<FirstName>PS FirstName S</FirstName>
+				<LastName>P3 FirstName 3</LastName>
+				<DOB>P3 DOB 3</DOB>
+				<Address>
+					<Address1>P3 Address 1 3</Address1>
+					<Address2>P3 Address 2 3</Address2>
+					<Address3>P3 Address 3 3</Address3>
+					<Address4/>
+					<Postcode>P3   PC   3</Postcode>
+				</Address>
+			</Attorney2>
+			<NumberAttorneys>P3N</NumberAttorneys>
+		</PartA2>
+		<BURN/>
+		<PhysicalPage>1</PhysicalPage>
+	</Page3>
+	<Page4>
+		<PartA3>
+			<Salutation>
+				<Mr>false</Mr>
+				<Mrs>false</Mrs>
+				<Ms>false</Ms>
+				<Miss>true</Miss>
+				<OtherName/>
+			</Salutation>
+			<FirstName>Annie</FirstName>
+			<LastName>Phylactic</LastName>
+			<DOB>01/02/1948</DOB>
+			<Address>
+				<Address1>16 Vespid Drive</Address1>
+				<Address2>Beeton</Address2>
+				<Address3>Hornetshire</Address3>
+				<Address4/>
+				<Postcode>TR3 2BV</Postcode>
+			</Address>
+			<NumberReplacements>0</NumberReplacements>
+		</PartA3>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page4>
+	<Page5>
+		<Part4>
+			<Jointly>false</Jointly>
+			<JointlySeverally>true</JointlySeverally>
+			<JointlySome>true</JointlySome>
+			<AdditionalInfo>P5 Memo</AdditionalInfo>
+		</Part4>
+		<BURN/>
+		<PhysicalPage>2</PhysicalPage>
+	</Page5>
+	<Page6>
+		<Part5>
+			<OptionA>
+				<Signature>true</Signature>
+				<Date>02/02/2012</Date>
+			</OptionA>
+			<OptionB>
+				<Signature>false</Signature>
+				<Date>03/03/2013</Date>
+			</OptionB>
+			<Witness>
+				<Signature>false</Signature>
+				<FullName/>
+				<Address>
+					<Address1/>
+					<Address2/>
+					<Address3/>
+					<Address4/>
+					<Postcode/>
+				</Address>
+			</Witness>
+		</Part5>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page6>
+	<Page7>
+		<Part6>
+			<Restrictions/>
+		</Part6>
+		<Part7>
+			<Guidance/>
+		</Part7>
+		<Part8>
+			<Charges/>
+		</Part8>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page7>
+	<Page8>
+		<Part9>
+			<FirstPerson>
+				<Salutation>
+					<Mr>true</Mr>
+					<Mrs>false</Mrs>
+					<Ms>true</Ms>
+					<Miss>false</Miss>
+					<OtherName>P8 OtherTille 1</OtherName>
+				</Salutation>
+				<FirstName>PB FirstName l</FirstName>
+				<LastName>P8 LastName 1</LastName>
+				<Address>
+					<Address1>P8 Address 11</Address1>
+					<Address2>P8 Address 1 2</Address2>
+					<Address3>P8 Address 1 3</Address3>
+					<Address4/>
+					<Postcode>P8   PC   1</Postcode>
+				</Address>
+			</FirstPerson>
+			<SecondPerson>
+				<Salutation>
+					<Mr>true</Mr>
+					<Mrs>false</Mrs>
+					<Ms>true</Ms>
+					<Miss>false</Miss>
+					<OtherName>P8 OtherTitle 2</OtherName>
+				</Salutation>
+				<FirstName>PB FirsiName Z</FirstName>
+				<LastName>P8 LastName 2</LastName>
+				<Address>
+					<Address1>P8 Address 12</Address1>
+					<Address2>P8 Address 2 2</Address2>
+					<Address3>P8 Address 2 3</Address3>
+					<Address4/>
+					<Postcode>P8   PC   2</Postcode>
+				</Address>
+			</SecondPerson>
+			<NumberOthers>P8N</NumberOthers>
+		</Part9>
+		<BURN/>
+		<PhysicalPage>3</PhysicalPage>
+	</Page8>
+	<Page9>
+		<Part10>
+			<POADeclaration>
+				<Signature>false</Signature>
+				<Date/>
+			</POADeclaration>
+			<WitnessDeclaration>
+				<Signature>false</Signature>
+				<FullName/>
+				<Address>
+					<Address1/>
+					<Address2/>
+					<Address3/>
+					<Address4/>
+					<Postcode/>
+				</Address>
+			</WitnessDeclaration>
+		</Part10>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page9>
+	<Page10>
+		<PartB>
+			<DonorKnowledge>School Friend</DonorKnowledge>
+			<Relevantskills>Is Accountant</Relevantskills>
+		</PartB>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page10>
+	<Page11>
+		<PartB>
+			<Signature>true</Signature>
+			<Date>01/01/2014</Date>
+			<Salutation>
+				<Mr>false</Mr>
+				<Mrs>false</Mrs>
+				<Ms>true</Ms>
+				<Miss>false</Miss>
+				<OtherName/>
+			</Salutation>
+			<FirstName>Ada</FirstName>
+			<LastName>Lovelace</LastName>
+			<Address>
+				<Address1>128 Babbage Drive</Address1>
+				<Address2>Kensington</Address2>
+				<Address3>London</Address3>
+				<Address4/>
+				<Postcode>W8 4AB</Postcode>
+			</Address>
+		</PartB>
+		<BURN/>
+		<PhysicalPage>4</PhysicalPage>
+	</Page11>
+	<Page12>
+		<PartC>
+			<AttorneyStatement>
+				<Signature>false</Signature>
+				<FullName/>
+			<Date/>
+			</AttorneyStatement>
+			<Witness>
+				<Signature>false</Signature>
+				<FullName/>
+				<Address>
+					<Address1/>
+					<Address2/>
+					<Address3/>
+					<Address4/>
+					<Postcode/>
+				</Address>
+			</Witness>
+		</PartC>
+		<BURN/>
+		<PhysicalPage>0</PhysicalPage>
+	</Page12>
+</LPA114>
