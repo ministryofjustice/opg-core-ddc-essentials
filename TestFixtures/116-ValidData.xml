@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LPA116 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LPA116.xsd">
+    <Page1>
+        <PartC>
+            <Attorney>
+                <Signature>true</Signature>
+                <FullName>Jeremy James Copes</FullName>
+                <Date>09062014</Date>
+            </Attorney>
+            <Witness>
+                <Signature>false</Signature>
+                <FullName/>
+                <Address>
+                    <Address1/>
+                    <Address2/>
+                    <Address3/>
+                    <Address4/>
+                    <Postcode/>
+                </Address>
+            </Witness>
+        </PartC>
+        <BURN/>
+        <PhysicalPage>1</PhysicalPage>
+    </Page1>
+    <Page1>
+        <PartC>
+            <Attorney>
+                <Signature>true</Signature>
+                <FullName>Jordan Carpenter</FullName>
+                <Date>09062014</Date>
+            </Attorney>
+            <Witness>
+                <Signature>false</Signature>
+                <FullName/>
+                <Address>
+                    <Address1/>
+                    <Address2/>
+                    <Address3/>
+                    <Address4/>
+                    <Postcode/>
+                </Address>
+            </Witness>
+        </PartC>
+        <BURN/>
+        <PhysicalPage>2</PhysicalPage>
+    </Page1>
+    <Page1>
+        <PartC>
+            <Attorney>
+                <Signature>true</Signature>
+                <FullName>Jessica Carpenter</FullName>
+                <Date>08062014</Date>
+            </Attorney>
+            <Witness>
+                <Signature>false</Signature>
+                <FullName/>
+                <Address>
+                    <Address1/>
+                    <Address2/>
+                    <Address3/>
+                    <Address4/>
+                    <Postcode/>
+                </Address>
+            </Witness>
+        </PartC>
+        <BURN/>
+        <PhysicalPage>3</PhysicalPage>
+    </Page1>
+</LPA116>
