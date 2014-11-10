@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LPA115 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LPA115.xsd">
+    <Page1>
+        <PartA1>
+            <AddtionalPersonDetails>Replacement Attorney number two
+                Miss Jessica Carpenter
+                38 Marlborough Cresent, South Tawton, UK EX20 6QN
+                DOB: June 17, 1987</AddtionalPersonDetails>
+            <FullName>Mr Benjamin David Copes</FullName>
+            <Signature>true</Signature>
+            <Date>08062014</Date>
+            <ContinuationSheetNo>1</ContinuationSheetNo>
+            <TotalSheets>2</TotalSheets>
+        </PartA1>
+        <BURN/>
+        <PhysicalPage>1</PhysicalPage>
+    </Page1>
+    <Page2>
+        <PartA2>
+            <AddtionalPersonDetails>HOW REPLACEMENT ATTORNEYS WILL REPLACE THE ORIGINAL ATTORNEYS
+
+                my replacement attorney(s) should: step in when one of the original attorneys can no longer act.</AddtionalPersonDetails>
+            <FullName>Benjamin David Copes</FullName>
+            <Signature>true</Signature>
+            <Date>08062014</Date>
+            <ContinuationSheetNo>2</ContinuationSheetNo>
+            <TotalSheets>2</TotalSheets>
+        </PartA2>
+        <BURN/>
+        <PhysicalPage>2</PhysicalPage>
+    </Page2>
+</LPA115>
